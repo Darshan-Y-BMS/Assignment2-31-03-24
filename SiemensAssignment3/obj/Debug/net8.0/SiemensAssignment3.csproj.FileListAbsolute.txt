@@ -1,0 +1,14 @@
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\bin\Debug\net8.0\SiemensAssignment3.exe
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\bin\Debug\net8.0\SiemensAssignment3.deps.json
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\bin\Debug\net8.0\SiemensAssignment3.runtimeconfig.json
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\bin\Debug\net8.0\SiemensAssignment3.dll
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\bin\Debug\net8.0\SiemensAssignment3.pdb
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\obj\Debug\net8.0\SiemensAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\obj\Debug\net8.0\SiemensAssignment3.AssemblyInfoInputs.cache
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\obj\Debug\net8.0\SiemensAssignment3.AssemblyInfo.cs
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\obj\Debug\net8.0\SiemensAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\obj\Debug\net8.0\SiemensAssignment3.dll
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\obj\Debug\net8.0\refint\SiemensAssignment3.dll
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\obj\Debug\net8.0\SiemensAssignment3.pdb
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\obj\Debug\net8.0\SiemensAssignment3.genruntimeconfig.cache
+C:\Users\Darshan\source\repos\SiemensAssignment3\SiemensAssignment3\obj\Debug\net8.0\ref\SiemensAssignment3.dll
